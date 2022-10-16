@@ -15,7 +15,5 @@
 <div align="center">
   <h2>GIF</h2>
   <img src="src/assets/spa-universe.gif" alt="gif do projeto git favorites" />
-  
-  :link: [Try SPA-Universe]()
 </div>
 
